@@ -1,0 +1,6 @@
+{
+  "name": "EKIII Exam Hub",
+  "description": "Offline Mobile Examination System and Teacher Management Hub for Eastern Kutawato Islamic Institute Inc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
